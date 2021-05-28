@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Application programing
+* 3-D programming
+* Problem Solving
